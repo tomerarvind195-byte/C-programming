@@ -100,7 +100,7 @@ Each program is written with **clean code, proper comments, and beginner-friendl
 * VS Code / CodeBlocks
 * Git
 
----
+------
 
 ## Installation
 
