@@ -56,7 +56,7 @@ Each program is written with **clean code, proper comments, and beginner-friendl
 * Beginner-friendly implementations
 * Optimized solutions wherever applicable
 * Well-structured folder organization
-* Easy to compile and run
+* Easy to compile 
 
 ---
 
