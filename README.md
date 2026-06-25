@@ -85,7 +85,7 @@ Each program is written with **clean code, proper comments, and beginner-friendl
 | Component       | Technology           |
 | --------------- | -------------------- |
 | Language        | C++                  |
-| Standard        | C++17                |
+| Standard        | C++                |
 | IDE             | VS Code / CodeBlocks |
 | Compiler        | GCC / G++            |
 | Version Control | Git & GitHub         |
