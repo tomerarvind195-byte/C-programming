@@ -301,7 +301,8 @@ git push origin feature/new-algorithm
 💻 GitHub: https://github.com/tomerarvind195-byte
 
 📧 Email: [tomerarvind195@gmail.com](mailto:tomerarvind195@gmail.com) 
-📧 Email: [arvind.it.24023@recb.ac.in](mailto: arvind.it.24023@recb.ac.in)
+
+📧 Email: [arvind.it.24023@recb.ac.in](mailto:arvind.it.24023@recb.ac.in)
 ---
 
 # 📄 License
