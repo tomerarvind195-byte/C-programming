@@ -12,7 +12,6 @@
 
 # 📸 Demo
 
-> *[(Add screenshots of your program output here)]*
 
 ```text
 ===========================================
