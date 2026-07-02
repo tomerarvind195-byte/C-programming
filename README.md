@@ -285,7 +285,7 @@ git commit -m "Added Dijkstra Algorithm"
 git push origin feature/new-algorithm
 ```
 
-5. Create a Pull Request
+5. Create a Pull Request and push the code
 
 ---
 
