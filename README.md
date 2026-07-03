@@ -44,7 +44,7 @@ Enter your choice:
 
 # 📋 About The Project
 
-This repository contains **C++ implementations of Data Structures and Algorithms** designed to strengthen programming skills, improve logical thinking, and prepare for coding interviews and competitive programming.
+This repository contains **C++ implementations of Data Structures and Algorithms** designed to strengthen programming skills, improve logical thinking, and prepare for coding interviews and competitive programming with gate concept.
 
 Each program is written with **clean code, proper comments, and beginner-friendly logic**, making it easy to understand and practice.
 
